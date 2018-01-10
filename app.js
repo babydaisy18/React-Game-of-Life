@@ -1,5 +1,5 @@
-// CIS 197 - React HW
-// Author - Devesh Dayal, Steve Vitali, Abhinav Suri
+// CIS 197 HW 7
+// AUTHOR - DEVESH DAYAL, STEVE VITALI, ABHINAV SURI
 // Simple Express server to serve static files
 import express from 'express';
 import path from 'path';
